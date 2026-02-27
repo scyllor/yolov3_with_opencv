@@ -1,0 +1,5 @@
+# Dependencies for detect/ scripts
+# Install: pip install -r detect/requirements.txt
+
+opencv-python-headless>=4.9.0
+numpy>=1.24.0
